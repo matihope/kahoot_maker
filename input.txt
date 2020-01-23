@@ -1,0 +1,58 @@
+niemiecki polski
+der Artz - lekarz
+der Buchhalter - księgowy
+der Hotelfachmann - hotelarz
+der Informatiker - informatyk
+der Ingenieiur - inżynier
+der Journalist - dziennikarz
+der Jurist - prawnik
+der Kellner - kelner
+der Koch - kucharz
+der Lehrer - nauczyciel
+der Projektmanager - kierowca projektu
+der Verkäufer - sprzedawca
+auf dem Bau arbeiten - pracować na budowie
+Computerprogramme schreiben - pisać programy komputerowe
+die Gäste bedienen - obsługiwać gości
+das Geld zählen - liczyć pieniądze
+die Kranken pflegen - opiekować się chorymi
+die Kunden gewinnen - pozyskiwać klientów
+die Kunden bedienen - obsługiwać klientów
+die Schüler unterrichten - uczyć uczniów, nauczać
+die Waren verkaufen - sprzedawać towary
+Interviews machen - przeprowadzać wywiady
+Projekte leiten - kierować projektami
+Speisen kochen - gotować potrawy
+Speisen servieren - podawać potrawy
+einhundert - 100
+zweihundert - 200
+dreihundert - 300
+vierhundert - 400
+fünfhundert - 500
+sechshundert - 600
+siebenhundert - 700
+achthundert - 800
+neunhundert - 900
+tausend - 1000
+die Adresse - adres
+der Beruf - zawód
+die E-Mail-Adresse - adres e-mailowy
+der Familienname - nazwisko
+die Fremdsprache - język obcy
+das Land - kraj
+die Muttersprache - język ojczysty
+die Postleitzahl - kod pocztowy
+die Straße - ulica
+die Telefonnummer - numer telefonu
+der Vorname - imię
+der Wohnort - miejsce zamieszkania
+gefährlich - niebezpieczny
+geistig - umysłowy
+gut bezahlt - dobrze płatny
+körperlich - fizyczny
+kreativ - kreatywny
+leicht - łatwy
+ruhig - spokojny
+schlecht bezahlt - źle płatny
+stressig - stresujący
+verantwortungsvoll - odpowiedzialny
