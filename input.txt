@@ -3,7 +3,7 @@ der Arzt - lekarz
 der Buchhalter - księgowy
 der Hotelfachmann - hotelarz
 der Informatiker - informatyk
-der Ingenieiur - inżynier
+der Ingenieur - inżynier
 der Journalist - dziennikarz
 der Jurist - prawnik
 der Kellner - kelner
