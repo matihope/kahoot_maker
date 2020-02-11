@@ -18,6 +18,7 @@ das Geld zählen - liczyć pieniądze
 die Kranken pflegen - opiekować się chorymi
 die Kunden gewinnen - pozyskiwać klientów
 die Kunden bedienen - obsługiwać klientów
+die Studien - studia
 die Schüler unterrichten - uczyć uczniów, nauczać
 die Waren verkaufen - sprzedawać towary
 Interviews machen - przeprowadzać wywiady
